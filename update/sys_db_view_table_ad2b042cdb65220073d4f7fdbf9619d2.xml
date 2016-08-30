@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_db_view_table">
+    <sys_db_view_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <left_join>false</left_join>
+        <order>100</order>
+        <sys_class_name>sys_db_view_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-08-26 13:31:39</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>ad2b042cdb65220073d4f7fdbf9619d2</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>x_69070_hospital_patients</sys_name>
+        <sys_package display_value="Hospital" source="x_69070_hospital">3a73a200db21220073d4f7fdbf9619ef</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Hospital">3a73a200db21220073d4f7fdbf9619ef</sys_scope>
+        <sys_update_name>sys_db_view_table_ad2b042cdb65220073d4f7fdbf9619d2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-08-26 14:32:36</sys_updated_on>
+        <table>x_69070_hospital_patients</table>
+        <variable_prefix>patient</variable_prefix>
+        <view display_value="x_69070_hospital_testdatabaseview">d7411f00db61220073d4f7fdbf9619da</view>
+        <where_clause/>
+    </sys_db_view_table>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>x_69070_hospital.appointment.notice</event_name>
+        <fired_by/>
+        <queue>appointment.notice</queue>
+        <suffix>appointment.notice</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-08-29 12:31:27</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>63891799db21220073d4f7fdbf9619ec</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_69070_hospital.appointment.notice</sys_name>
+        <sys_package display_value="Hospital" source="x_69070_hospital">3a73a200db21220073d4f7fdbf9619ef</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Hospital">3a73a200db21220073d4f7fdbf9619ef</sys_scope>
+        <sys_update_name>sysevent_register_63891799db21220073d4f7fdbf9619ec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-08-29 12:50:10</sys_updated_on>
+        <table>x_69070_hospital_appointments</table>
+    </sysevent_register>
+</record_update>

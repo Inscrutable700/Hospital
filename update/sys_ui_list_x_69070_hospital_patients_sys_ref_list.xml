@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_69070_hospital_patients" version="2" view="sys_ref_list">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>first_name</element>
+            <list_id display_value="x_69070_hospital_patients" element="NULL" name="x_69070_hospital_patients" parent="NULL" relationship="NULL" sys_domain="global" view="6f303532db01220073d4f7fdbf96197e">fb62be08db21220073d4f7fdbf9619db</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-08-25 12:25:18</sys_created_on>
+            <sys_id>3362be08db21220073d4f7fdbf9619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-08-25 12:25:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>last_name</element>
+            <list_id display_value="x_69070_hospital_patients" element="NULL" name="x_69070_hospital_patients" parent="NULL" relationship="NULL" sys_domain="global" view="6f303532db01220073d4f7fdbf96197e">fb62be08db21220073d4f7fdbf9619db</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-08-25 12:25:18</sys_created_on>
+            <sys_id>b362be08db21220073d4f7fdbf9619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-08-25 12:25:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>gender</element>
+            <list_id display_value="x_69070_hospital_patients" element="NULL" name="x_69070_hospital_patients" parent="NULL" relationship="NULL" sys_domain="global" view="6f303532db01220073d4f7fdbf96197e">fb62be08db21220073d4f7fdbf9619db</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-08-25 12:25:18</sys_created_on>
+            <sys_id>3762be08db21220073d4f7fdbf9619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-08-25 12:25:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>birthday</element>
+            <list_id display_value="x_69070_hospital_patients" element="NULL" name="x_69070_hospital_patients" parent="NULL" relationship="NULL" sys_domain="global" view="6f303532db01220073d4f7fdbf96197e">fb62be08db21220073d4f7fdbf9619db</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-08-25 12:25:18</sys_created_on>
+            <sys_id>b762be08db21220073d4f7fdbf9619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-08-25 12:25:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>address</element>
+            <list_id display_value="x_69070_hospital_patients" element="NULL" name="x_69070_hospital_patients" parent="NULL" relationship="NULL" sys_domain="global" view="6f303532db01220073d4f7fdbf96197e">fb62be08db21220073d4f7fdbf9619db</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-08-25 12:25:18</sys_created_on>
+            <sys_id>3b62be08db21220073d4f7fdbf9619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-08-25 12:25:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_69070_hospital_patients</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-08-25 12:25:18</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fb62be08db21220073d4f7fdbf9619db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_69070_hospital_patients</sys_name>
+            <sys_package display_value="Hospital" source="x_69070_hospital">3a73a200db21220073d4f7fdbf9619ef</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Hospital">3a73a200db21220073d4f7fdbf9619ef</sys_scope>
+            <sys_update_name>sys_ui_list_x_69070_hospital_patients_sys_ref_list</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-08-25 12:25:18</sys_updated_on>
+            <sys_user/>
+            <view display_value="Reference List" name="sys_ref_list">6f303532db01220073d4f7fdbf96197e</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

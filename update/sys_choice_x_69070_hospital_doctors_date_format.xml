@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="date_format" table="x_69070_hospital_doctors" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>date_format</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MM-dd-yyyy</label>
+            <language>en</language>
+            <name>x_69070_hospital_doctors</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-08-25 11:45:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5a592284db21220073d4f7fdbf961988</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-08-25 11:45:37</sys_updated_on>
+            <value>MM-dd-yyyy</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>date_format</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>dd/MM/yyyy</label>
+            <language>en</language>
+            <name>x_69070_hospital_doctors</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-08-25 11:45:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5e592284db21220073d4f7fdbf96198a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-08-25 11:45:37</sys_updated_on>
+            <value>dd/MM/yyyy</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>date_format</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>dd-MM-yyyy</label>
+            <language>en</language>
+            <name>x_69070_hospital_doctors</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-08-25 11:45:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>de592284db21220073d4f7fdbf96198c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-08-25 11:45:37</sys_updated_on>
+            <value>dd-MM-yyyy</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>date_format</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>dd.MM.yyyy</label>
+            <language>en</language>
+            <name>x_69070_hospital_doctors</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-08-25 11:45:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>52592284db21220073d4f7fdbf96198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-08-25 11:45:37</sys_updated_on>
+            <value>dd.MM.yyyy</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>date_format</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>yyyy-MM-dd</label>
+            <language>en</language>
+            <name>x_69070_hospital_doctors</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-08-25 11:45:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d2592284db21220073d4f7fdbf961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-08-25 11:45:37</sys_updated_on>
+            <value>yyyy-MM-dd</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>date_format</element>
+            <name>x_69070_hospital_doctors</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-08-25 11:45:37</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>9a592284db21220073d4f7fdbf96198a</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>date_format</sys_name>
+            <sys_package display_value="Hospital" source="x_69070_hospital">3a73a200db21220073d4f7fdbf9619ef</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Hospital">3a73a200db21220073d4f7fdbf9619ef</sys_scope>
+            <sys_update_name>sys_choice_x_69070_hospital_doctors_date_format</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-08-26 16:45:47</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

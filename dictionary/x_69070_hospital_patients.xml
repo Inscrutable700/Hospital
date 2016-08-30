@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Patients" max_length="40" name="x_69070_hospital_patients" type="collection">
+        <element label="Address" max_length="100" name="address" type="string_full_utf8"/>
+        <element label="Birthday" mandatory="true" max_length="40" name="birthday" type="glide_date"/>
+        <element label="Email" max_length="254" name="email" type="string_full_utf8"/>
+        <element label="First Name" mandatory="true" max_length="255" name="first_name" type="string_full_utf8"/>
+        <element choice="1" label="Gender" mandatory="true" max_length="40" name="gender" type="choice">
+            <choice>
+                <element label="Female" sequence="0" value="Female"/>
+                <element label="Male" sequence="1" value="Male"/>
+            </choice>
+        </element>
+        <element display="true" label="Last Name" mandatory="true" max_length="255" name="last_name" type="string_full_utf8"/>
+    </element>
+</database>

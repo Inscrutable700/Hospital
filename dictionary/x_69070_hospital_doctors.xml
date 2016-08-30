@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_user" label="Doctors" max_length="40" name="x_69070_hospital_doctors" type="collection">
+        <element label="Count of appointments" max_length="40" name="count_of_appointments" read_only="true" type="integer"/>
+        <element label="Future count" max_length="40" name="future_count" read_only="true" type="integer"/>
+        <element choice="1" label="Rank" mandatory="true" max_length="40" name="rank" type="choice">
+            <choice>
+                <element label="Junior" sequence="0" value="Junior"/>
+                <element label="Middle" sequence="1" value="Middle"/>
+                <element label="Senior" sequence="2" value="Senior"/>
+            </choice>
+        </element>
+    </element>
+</database>

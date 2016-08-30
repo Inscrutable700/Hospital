@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Medications" max_length="40" name="x_69070_hospital_medications" type="collection">
+        <element label="Description" max_length="10000" name="description" type="string_full_utf8"/>
+        <element label="Name" max_length="100" name="name" type="string_full_utf8"/>
+    </element>
+</database>

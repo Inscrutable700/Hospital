@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="wf_workflow_schedule">
+    <wf_workflow_schedule action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <conditional>false</conditional>
+        <name>Email notification for patient one day before</name>
+        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2016-08-29 13:58:48</run_start>
+        <run_time>1970-01-02 01:00:00</run_time>
+        <run_type>once</run_type>
+        <script><![CDATA[var ws = new WorkflowScheduler(); ws.run();]]></script>
+        <sys_class_name>wf_workflow_schedule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-08-29 14:07:27</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>983eebdddb21220073d4f7fdbf961932</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Email notification for patient one day before</sys_name>
+        <sys_package display_value="Hospital" source="x_69070_hospital">3a73a200db21220073d4f7fdbf9619ef</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Hospital">3a73a200db21220073d4f7fdbf9619ef</sys_scope>
+        <sys_update_name>wf_workflow_schedule_983eebdddb21220073d4f7fdbf961932</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-08-29 14:17:03</sys_updated_on>
+        <upgrade_safe>false</upgrade_safe>
+        <workflow display_value="Email notification for patient one day before">2e3faf9ddb21220073d4f7fdbf9619b7</workflow>
+    </wf_workflow_schedule>
+</record_update>

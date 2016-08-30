@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Appointments" max_length="40" name="x_69070_hospital_appointments" type="collection">
+        <element label="Date/Time" mandatory="true" max_length="40" name="date_time" type="glide_date_time"/>
+        <element label="Doctor" mandatory="true" max_length="32" name="doctor" reference="x_69070_hospital_doctors" type="reference"/>
+        <element label="Notes" max_length="1000" name="notes" type="string_full_utf8"/>
+        <element display="true" label="Patient" mandatory="true" max_length="32" name="patient" reference="x_69070_hospital_patients" type="reference"/>
+        <index name="index">
+            <element name="doctor"/>
+        </index>
+        <index name="index2">
+            <element name="patient"/>
+        </index>
+    </element>
+</database>
